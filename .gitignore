@@ -1,0 +1,8 @@
+.gitignore                                                                                                                                                                                        
+                                                                                                                                                                   
+.DS_store                                                                                                                                                                                         
+.ipynb_checkpoints/                                                                                                                                                                               
+                                                                                                                                                                                 
+.idea/                                                                                                                                                                                            
+                                                                                                                                                                                             
+*.pyc   
